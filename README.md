@@ -1,6 +1,6 @@
 [![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)](https://yasirobaibullah99.io)
 
-<h1 align="center">Hii 👋, I'm Yasir Obaibullah</h1>
+<h1 align="center">Hi 👋, I'm Yasir Obaibullah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
 
