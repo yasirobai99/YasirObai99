@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/yasirobai99" target="blank"><img src="https://img.shields.io/twitter/follow/yasirobai99?logo=twitter&style=for-the-badge" alt="yasirobai99" /></a> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript & React Js**
 
 - 📫 How to reach me **yasirobaidullah123@gmail.com**
 
