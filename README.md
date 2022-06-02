@@ -22,8 +22,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirobaibullah99&show_icons=true&locale=en&layout=compact" alt="yasirobaibullah99" /></p> -->
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasirobaibullah99&show_icons=true&locale=en" alt="yasirobaibullah99" /></p>
-
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirobaibullah99&" alt="yasirobaibullah99" /></p> 
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirobaibullah99&" alt="yasirobaibullah99" /></p>--> 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/yasirobai99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasirobai99" height="30" width="40" /></a>
