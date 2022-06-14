@@ -33,5 +33,5 @@
 <p align="center">
 <a href="https://twitter.com/yasirobai99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasirobai99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yasir-obaibullah99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasir-obaibullah99" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yasir99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yasir99" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/yasir99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yasir99" height="30" width="40" /></a> -->
 </p>
