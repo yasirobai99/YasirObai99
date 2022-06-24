@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Back-end**
 
-- 👨‍💻 All of my projects are available at [https://yasirobaibullah99.github.io/PortfolioWebsite](https://yasirobaibullah99.github.io/PortfolioWebsite)
+- 👨‍💻 All of my projects are available at [https://yasirobaibullah99](https://yasirobaibullah99.github.io/PortfolioWebsite)
 
 - 💬 Ask me about **Javascript & React Js**
 
 - 📫 How to reach me **yasirobaidullah123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/file/d/1gRWSKUkQVz2HQemQbP-FTrJgq6IasTZ2/view?usp=sharing)
+- 📄 Know about my experiences [https://YasirResume](https://drive.google.com/file/d/1gRWSKUkQVz2HQemQbP-FTrJgq6IasTZ2/view?usp=sharing)
 
 
 <h3 align="center">Languages and Tools:</h3>
