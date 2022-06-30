@@ -2,7 +2,7 @@
 
 <h1 align="center">Hii 👋, I'm Yasir Obaibullah</h1>
 <h3 align="center">I am a frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirobaibullah99&label=Profile%20views&color=0e75b6&style=flat" alt="yasirobaibullah99" /> </p>
 
