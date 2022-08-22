@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/yasirobai99" target="blank"><img src="https://img.shields.io/twitter/follow/yasirobai99?logo=twitter&style=for-the-badge" alt="yasirobai99" /></a> </p>
 
-- 🌱 I’m currently learning **Back-end**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://yasirobaibullah99](https://yasirobaibullah99.github.io/PortfolioWebsite)
 
