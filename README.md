@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **yasirobaidullah123@gmail.com**
 
-- 📄 Know about my experiences [https://YasirResume](https://drive.google.com/file/d/1gRWSKUkQVz2HQemQbP-FTrJgq6IasTZ2/view?usp=sharing)
+<!-- 📄 Know about my experiences [https://YasirResume](https://drive.google.com/file/d/1gRWSKUkQVz2HQemQbP-FTrJgq6IasTZ2/view?usp=sharing) -->
 
 
 <h3 align="center">Languages and Tools:</h3>
