@@ -4,7 +4,7 @@
 <h3 align="center">I am a frontend developer</h3>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirobaibullah99&label=Profile%20views&color=0e75b6&style=flat" alt="yasirobaibullah99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirobai99&label=Profile%20views&color=0e75b6&style=flat" alt="yasirobai99" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yasirobai99" target="blank"><img src="https://img.shields.io/twitter/follow/yasirobai99?logo=twitter&style=for-the-badge" alt="yasirobai99" /></a> </p>
 
@@ -25,7 +25,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirobaibullah99&show_icons=true&locale=en&layout=compact" alt="yasirobaibullah99" /></p> -->
 
  
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasirobaibullah99&show_icons=true&locale=en" alt="yasirobaibullah99" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasirobai99&show_icons=true&locale=en" alt="yasirobai99" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirobaibullah99&" alt="yasirobaibullah99" /></p> -->
 
