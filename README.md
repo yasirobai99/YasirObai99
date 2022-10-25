@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://yasirobaibullah99](https://yasirobaibullah99.github.io/PortfolioWebsite)
+- 👨‍💻 All of my projects are available at [https://yasirobai99](https://yasirobai99.github.io/PortfolioWebsite)
 
 - 💬 Ask me about **Javascript & React Js**
 
