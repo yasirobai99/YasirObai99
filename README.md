@@ -1,7 +1,7 @@
 [![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)](https://yasirobai99.io)
 
 <h1 align="center">Hii 👋, I'm Yasir Obaidullah</h1>
-<h3 align="center">I am a frontend developer</h3>
+<h3 align="center">I am a full-stack developer</h3>
 <img align="right" alt="Coding" width="350" height="260" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirobai99&label=Profile%20views&color=0e75b6&style=flat" alt="yasirobai99" /> </p>
@@ -12,17 +12,25 @@
 
 - 👨‍💻 All of my projects are available at [https://yasirobai99](https://portfolio-yasirobai99.vercel.app)
 
-- 💬 Ask me about **Javascript & React Js**
+- 💬 Ask me about **React Js**
 
 - 📫 How to reach me **yasirobaidullah123@gmail.com**
 
 <!-- 📄 Know about my experiences [https://YasirResume](https://drive.google.com/file/d/1gRWSKUkQVz2HQemQbP-FTrJgq6IasTZ2/view?usp=sharing) -->
 <br>
 <br>
-<h3 align="center">Languages and Tools</h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<h2 align="center">Languages and Tools:</h2>
+    
+ <p align="center">
+  <a href="https://github.com/yasirobai99">
+    <img src="https://skillicons.dev/icons?i=bash,css,firebase,git,html,js,linux,mongodb,mysql,nextjs,nodejs,react,redux,tailwind,ts&theme=dark" />
+  </a>
+</p>
 <br>
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirobaibullah99&show_icons=true&locale=en&layout=compact" alt="yasirobaibullah99" /></p> -->
+
 <div align="center">
 
 <picture>
@@ -30,26 +38,35 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yasirobai99&show_icons=true&locale=en&theme=github_dark">
   <img alt="Yasir!" align="center" src = "https://github-readme-stats.vercel.app/api?username=yasirobai99&show_icons=true&locale=en">
 </picture>
-  <br>
- <br>
-  <picture>
-    
+<br>
+<br>
+<picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yasirobai99&layout=compact&locale=en&theme=graywhite">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yasirobai99&layout=compact&theme=dark">
   <img alt="Yasir!" align="center" src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yasirobai99&layout=compact">
 </picture>
+
  </div>
  
-<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasirobai99&show_icons=true&locale=en&theme=github_dark" alt="yasirobai99" /></p> -->
+ <h2 align="center">Connect with me:</h2>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirobaibullah99&" alt="yasirobaibullah99" /></p> -->
+<!--<div display="flex" justify-content=space-between flex-wrap ="wrap" gap = "120px" align="center">-->
 
-<!-- <h3 align="center">Connect with me</h3> -->
-<div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
-</h3> 
 <p align="center">
-<a href="https://twitter.com/yasirobai99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasirobai99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yasir-obaibullah99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasir-obaibullah99" height="30" width="40" /></a>
-<!-- <a href="https://www.codechef.com/users/yasir99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yasir99" height="30" width="40" /></a> -->
-</p>
+   <a href="https://twitter.com/yasirobai99" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=twitter"height="50" width="45" />
+   </a>
+   
+  <a href="https://www.linkedin.com/in/yasir-obaibullah99/" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin"height="50" width="45" />
+   </a>
+  
+   <a href="https://github.com/yasirobai99" target="blank">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github">
+        <img align="center" alt="Github" src="https://skillicons.dev/icons?i=github"height="50" width="45">
+    </picture>
+   </a>
+  </p>
+<!--</div> -->
